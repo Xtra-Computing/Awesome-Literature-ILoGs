@@ -15,10 +15,10 @@ For a more comprehensive overview of imbalanced learning on various data, please
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | DR-GCN  | Multi-Class Imbalanced Graph Convolutional Network Learning | IJCAI-20  |  [PDF](https://www.ijcai.org/proceedings/2020/398)  | [TensorFlow](https://github.com/codeshareabc/DRGCN)  |
 | DPGNN  | Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification  | arXiv-21  | [PDF](https://arxiv.org/abs/2110.12035)  | [PyTorch](https://github.com/YuWVandy/DPGNN)  |
-| TAM  | TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification  | ICML-22  | [PDF](https://proceedings.mlr.press/v162/song22a/song22a.pdf)  | [PyTorch](https://github.com/Jaeyun-Song/TAM)  |
-| LTE4G  | LTE4G: Long-Tail Experts for Graph Neural Networks  | CIKM-22  | [PDF](https://arxiv.org/abs/2208.10205)  | [PyTorch](https://github.com/SukwonYun/LTE4G)  |
 | GraphSMOTE  | GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks  | WSDM-21  | [PDF](https://arxiv.org/abs/2103.08826)  | [PyTorch](https://github.com/TianxiangZhao/GraphSmote)  |
 | ImGAGN  | ImGAGN: Imbalanced Network Embedding via Generative Adversarial Graph Networks  | KDD-21  | [PDF](https://arxiv.org/abs/2106.02817)  | [PyTorch](https://github.com/Leo-Q-316/ImGAGN)  |
+| TAM  | TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification  | ICML-22  | [PDF](https://proceedings.mlr.press/v162/song22a/song22a.pdf)  | [PyTorch](https://github.com/Jaeyun-Song/TAM)  |
+| LTE4G  | LTE4G: Long-Tail Experts for Graph Neural Networks  | CIKM-22  | [PDF](https://arxiv.org/abs/2208.10205)  | [PyTorch](https://github.com/SukwonYun/LTE4G)  |
 | GraphMixup  | GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction  | ECML-PKDD-22  | [PDF](https://arxiv.org/abs/2106.11133)  | [PyTorch](https://github.com/LirongWu/GraphMixup)  |
 | GraphENS  | GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification   | ICLR-22  | [PDF](https://openreview.net/forum?id=MXEl7i-iru)  | [PyTorch](https://github.com/JoonHyung-Park/GraphENS)  |
 | GraphSANN  | Imbalanced Node Classification Beyond Homophilic Assumption  | IJCAI-23  | [PDF](https://arxiv.org/abs/2304.14635)  | 	[N/A]  |
@@ -32,8 +32,31 @@ For a more comprehensive overview of imbalanced learning on various data, please
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Meta-GNN  | Meta-GNN: On Few-shot Node Classification in Graph Meta-learning  | CIKM-19  | [PDF](https://arxiv.org/abs/1905.09718)  | [PyTorch](https://github.com/ChengtaiCao/Meta-GNN)  |
+| AMM-GNN  | Graph Few-shot Learning with Attribute Matching  | CIKM-20  | [PDF](https://www.public.asu.edu/~kding9/pdf/CIKM2020_AMM.pdf)  | [N/A]  |
+| TRGM  | Task-level Relations Modelling for Graph Meta-learning  | ICDM-22  | [PDF](https://ieeexplore.ieee.org/document/10027781)  | [N/A]  |
+| RALE  | Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph  | AAAI-21  | [PDF](https://zemin-liu.github.io/papers/Relative%20and%20Absolute%20Location%20Embedding%20for%20Few-Shot%20Node%20Classification%20on%20Graph.pdf)  | [TensorFlow](https://github.com/shuaiOKshuai/RALE)  |
 | Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
 | Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+| Content  | Content  | Content  | [PDF]()  | [PyTorch]()  |
+
 
 #### 1.1.4 Zero-Shot Node Classification
 
