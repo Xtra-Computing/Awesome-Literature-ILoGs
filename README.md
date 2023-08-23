@@ -1,5 +1,5 @@
 # Awesome Literature for Imbalanced Learning on Graphs (ILoGs)
-This repository lists the awesome research literature for imbalanced learning on graphs. We have summarized the literature based on the taxonomies of problems and techniques in our survey paper ([A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](xxx.xxx.xxx)). Here, we list the literature based on our primary taxonomy of problems for illustration. For more details of this challenging yet fast-paced field, please refer to our survey.
+This repository showcases a curated collection of research literature on imbalanced learning on graphs. We've categorized this literature according to the taxonomies of problems and techniques detailed in our survey paper, titled [A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](xxx.xxx.xxx). In this repository, we primarily arrange the literature based on our problem taxonomy for clarity. For a deeper understanding of this rapidly evolving and challenging field, we encourage readers to consult our survey.
 
 For our taxonomy of Problems, we classify the literature based on class imbalance and structure imbalance, both stemming from imbalanced input. We further distill this into more specific categories: node-, edge-, and graph-level imbalance, offering a comprehensive understanding of graph imbalance.
 
@@ -11,8 +11,8 @@ For our taxonomy of Problems, we classify the literature based on class imbalanc
 
 | Model  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| DR-GCN  | Multi-Class Imbalanced Graph Convolutional Network Learning | IJCAI 2020  |  [PDF](https://www.ijcai.org/proceedings/2020/398)  | [TensorFlow](https://github.com/codeshareabc/DRGCN)  |
+| Content Cell  | Content Cell  | Content Cell  | Link  | PyTorch  |
 
 #### 1.1.2 Node-Level Anomaly Detection
 
