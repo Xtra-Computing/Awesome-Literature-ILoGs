@@ -5,7 +5,9 @@ For our taxonomy of Problems, we classify the literature based on class imbalanc
 
 For a more comprehensive overview of imbalanced learning on various data, please refer to Github Repository [Awesome-Imbalanced-Learning](https://github.com/yanliang3612/awesome-imbalanced-learning-on-geometric-and-graphs).
 
-## Outline
+Note that, the order of papers in each category may not follow the time order, and they generally have the same order that is illustrated in our survey.
+
+# Outline
 
 - [1. Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#1-class-imbalance)
   - [1.1 Node-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#11-node-level-class-imbalance)
@@ -18,22 +20,22 @@ For a more comprehensive overview of imbalanced learning on various data, please
     - [1.2.2 Edge-Level Anomaly Detection](https://github.com/shuaiOKshuai/ILoGs#122-edge-level-anomaly-detection)
   - [1.3 Graph-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#13-graph-level-class-imbalance)
     - [1.3.1 Imbalanced Graph Classification](https://github.com/shuaiOKshuai/ILoGs#131-imbalanced-graph-classification)
-    - [1.3.2 Graph_Level Anomaly Detection](https://github.com/shuaiOKshuai/ILoGs#132-graph_level-anomaly-detection)
+    - [1.3.2 Graph-Level Anomaly Detection](https://github.com/shuaiOKshuai/ILoGs#132-graph_level-anomaly-detection)
     - [1.3.3 Few-Shot Graph Classification](https://github.com/shuaiOKshuai/ILoGs#133-few-shot-graph-classification)
 - [2. Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#2-structure-imbalance)
   - [2.1 Node-Level Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#21-node-level-structure-imbalance)
-    - []()
-    - []()
-    - []()
-  - []()
-    - []()
-    - []()
-    - []()
-  - []()
-    - []()
-    - []()
+    - [2.1.1 Imbalanced Node Degrees](https://github.com/shuaiOKshuai/ILoGs#211-imbalanced-node-degrees)
+    - [2.1.2 Node Topology Imbalance](https://github.com/shuaiOKshuai/ILoGs#212-node-topology-imbalance)
+    - [2.1.3 Long-Tail Entity Embedding](https://github.com/shuaiOKshuai/ILoGs#213-long-tail-entity-embedding)
+  - [2.2 Edge-Level Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#22-edge-level-structure-imbalance)
+    - [2.2.1 Few-Shot Relation Classification](https://github.com/shuaiOKshuai/ILoGs#221-few-shot-relation-classification)
+    - [2.2.2 Zero-Shot Relation Classification](https://github.com/shuaiOKshuai/ILoGs#222-zero-shot-relation-classification)
+    - [2.2.3 Few-Shot Reasoning on KGs](https://github.com/shuaiOKshuai/ILoGs#223-few-shot-reasoning-on-kgs)
+  - [2.3 Graph-Level Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#23-graph-level-structure-imbalance)
+    - [2.3.1 Imbalanced Graph Sizes](https://github.com/shuaiOKshuai/ILoGs#231-imbalanced-graph-sizes)
+    - [2.3.2 Imbalanced Topology Groups](https://github.com/shuaiOKshuai/ILoGs#232-imbalanced-topology-groups)
 
-
+# Literature
 
 ## 1. Class Imbalance
 
@@ -51,8 +53,9 @@ For a more comprehensive overview of imbalanced learning on various data, please
 | LTE4G  | LTE4G: Long-Tail Experts for Graph Neural Networks  | CIKM 2022  | [PDF](https://arxiv.org/abs/2208.10205)  | [PyTorch](https://github.com/SukwonYun/LTE4G)  |
 | GraphMixup  | GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction  | ECML-PKDD 2022  | [PDF](https://arxiv.org/abs/2106.11133)  | [PyTorch](https://github.com/LirongWu/GraphMixup)  |
 | GraphENS  | GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification   | ICLR 2022  | [PDF](https://openreview.net/forum?id=MXEl7i-iru)  | [PyTorch](https://github.com/JoonHyung-Park/GraphENS)  |
-| GraphSANN  | Imbalanced Node Classification Beyond Homophilic Assumption  | IJCAI 2023  | [PDF](https://arxiv.org/abs/2304.14635)  | 	[N/A]  |
 | ALLIE  | ALLIE: Active Learning on Large-scale Imbalanced Graphs  | WWW 2022  | [PDF](https://dl.acm.org/doi/10.1145/3485447.3512229)  | [N/A]  |
+| GraphSANN  | Imbalanced Node Classification Beyond Homophilic Assumption  | IJCAI 2023  | [PDF](https://arxiv.org/abs/2304.14635)  | 	[N/A]  |
+
 
 
 
@@ -96,22 +99,58 @@ For a more comprehensive overview of imbalanced learning on various data, please
 | RECT  | Expanding Semantic Knowledge for Zero-shot Graph Embedding  | DASFAA 2021  | [PDF](https://arxiv.org/abs/2103.12491)  | [N/A]  |
 | DGPN  | Zero-shot Node Classification with Decomposed Graph Prototype Network  | KDD 2021  | [PDF](https://arxiv.org/abs/2106.08022)  | [PyTorch](https://github.com/zhengwang100/dgpn)  |
 | DBiGCN  | Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification  | KDD 2022  | [PDF](http://www.lamda.nju.edu.cn/conf/mla22/paper/yq-KDD2022.pdf)  | [PyTorch](https://github.com/warmerspring/DBiGCN)  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+
 
 
 ### 1.2 Edge-Level Class Imbalance
 
 #### 1.2.1 Few-Shot Link Prediction
 
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| EA-GAT  | Few-Shot Link Prediction for Event-Based Social Networks via Meta-learning  | DASFAA 2023  | [PDF](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3)  | [N/A]  |
+
 #### 1.2.2 Edge-Level Anomaly Detection
+
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
 
 ### 1.3 Graph-Level Class Imbalance
 
 #### 1.3.1 Imbalanced Graph Classification
 
-#### 1.3.2 Graph_Level Anomaly Detection
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| $\text{G}^2\text{GNN}$  | Imbalanced Graph Classification via Graph-of-Graph Neural Networks | CIKM 2022  | [PDF](https://arxiv.org/abs/2112.00238)  | [PyTorch](https://github.com/YuWVandy/G2GNN)  |
+
+
+#### 1.3.2 Graph-Level Anomaly Detection
+
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
 
 #### 1.3.3 Few-Shot Graph Classification
+
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| AS-MAML  | Adaptive-Step Graph Meta-Learner for Few-Shot Graph Classification  | CIKM 2020  | [PDF](https://arxiv.org/abs/2003.08246)  | [PyTorch](https://github.com/NingMa-AI/AS-MAML)  |
+|   | Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measures  | ICLR 2020  | [PDF](https://arxiv.org/abs/2002.12815)  | [PyTorch](https://github.com/chauhanjatin10/GraphsFewShot)  |
+| FAITH  | FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs  | IJCAI-ECAI 2022  | [PDF](https://arxiv.org/abs/2205.02435)  | [PyTorch](https://github.com/SongW-SW/FAITH)  |
+|   | Metric Based Few-Shot Graph Classification  | LoG 2022  | [PDF](https://arxiv.org/abs/2206.03695)  | [PyTorch](https://github.com/crisostomi/metric-few-shot-graph)  |
+|   | Cross-Domain Few-Shot Graph Classification  | AAAI 2022  | [PDF](https://arxiv.org/abs/2201.08265)  | [N/A]  |
+| Temp-GFSM  | Meta-Learned Metrics over Multi-Evolution Temporal Graphs  | KDD 2022  | [PDF](https://dl.acm.org/doi/10.1145/3534678.3539313)  | [PyTorch](https://github.com/LiriFang/Temp-GFSM)  |
+| PAR  | Property-Aware Relation Networks for Few-Shot Molecular Property Prediction  | NeurIPS 2021  | [PDF](https://arxiv.org/abs/2107.07994)  | [PyTorch](https://github.com/tata1661/PAR-NeurIPS21)  |
+| Meta-MGNN  | Few-Shot Graph Learning for Molecular Property Prediction  | WWW 2021  | [PDF](https://arxiv.org/abs/2102.07916)  | [PyTorch](https://github.com/zhichunguo/Meta-MGNN)  |
+|   | Graph Neural Network Expressivity and Meta-Learning for Molecular Property Regression  | LoG 2022  | [PDF](https://arxiv.org/abs/2209.13410)  | [N/A]  |
+| ADKF-IFT  | Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Prediction  | ICLR 2023  | [PDF](https://arxiv.org/abs/2205.02708)  | [PyTorch](https://github.com/Wenlin-Chen/ADKF-IFT)  |
+| MTA  | Meta-Learning with Motif-based Task Augmentation for Few-Shot Molecular Property Prediction  | SDM 2023  | [PDF](https://epubs.siam.org/doi/10.1137/1.9781611977653.ch91)  | [N/A]  |
+
 
 ## 2. Structure Imbalance
 
@@ -119,23 +158,71 @@ For a more comprehensive overview of imbalanced learning on various data, please
 
 #### 2.1.1 Imbalanced Node Degrees
 
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+
 #### 2.1.2 Node Topology Imbalance
 
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+
 #### 2.1.3 Long-Tail Entity Embedding
+
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
 
 ### 2.2 Edge-Level Structure Imbalance 
 
 #### 2.2.1 Few-Shot Relation Classification
 
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+
 #### 2.2.2 Zero-Shot Relation Classification
 
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+
 #### 2.2.3 Few-Shot Reasoning on KGs
+
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
 
 ### 2.3 Graph-Level Structure Imbalance
 
 #### 2.3.1 Imbalanced Graph Sizes
 
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+
 #### 2.3.2 Imbalanced Topology Groups
 
-# Acknowledge
-This page is contributed and maintained by Zemin Liu (zeminliu@nus.edu.sg), Yuan Li (xxxx), and Nan Chen (xxxx).
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+
+# Acknowledgements
+This page is contributed and maintained by Zemin Liu (zeminliu@nus.edu.sg), Yuan Li (xxxx), and Nan Chen (xxxx). If you have any suggestions or questions, please feel free to contact us.
