@@ -123,9 +123,14 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| AddGraph  | AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN | IJCAI 2019 | [PDF](https://www.ijcai.org/Proceedings/2019/0614.pdf)  | [N/A]  |
+| NEDM  | A Nodes' Evolution Diversity Inspired Method to Detect Anomalies in Dynamic Social Networks | TKDE 2019 | [PDF](https://ieeexplore.ieee.org/document/8695818)  | [N/A]  |
+|  | Anomaly detection in the dynamics of web and social networks using associative memory  | WWW 2019 | [PDF](https://arxiv.org/pdf/1901.09688.pdf)  | [N/A]  |
+| AANE  | AANE: Anomaly Aware Network Embedding for Anomalous Link Detection  | ICDM 2020 | [PDF](https://ieeexplore.ieee.org/document/9338406)  | [N/A]  |
+| StrGNN  | Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs  | CIKM 2021  | [PDF](https://arxiv.org/pdf/2005.07427.pdf)  | [PyTorch](https://github.com/LeiCaiwsu/StrGNN)  |
+| F-FADE  | F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams  | WSDM 2021  | [PDF](https://arxiv.org/pdf/2011.04723.pdf)  | [PyTorch](https://github.com/snap-stanford/F-FADE)  |
+| LIFE  | Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach  | KDD 2021  | [PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467065)  | [N/A]  |
+| GLAD  | Deep Graph Learning for Anomalous Citation Detection  | TNNLS 2022 | [PDF](https://arxiv.org/abs/2202.11360)  | [N/A] |
 
 ### 1.3 Graph-Level Class Imbalance
 
