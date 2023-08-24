@@ -232,17 +232,17 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| ZSGAN  | Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs  | AAAI 2020  | [PDF](https://arxiv.org/abs/2001.02332)  | [PyTorch](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)  |
+| ZSLRC  | Zero-shot Relation Classification from Side Information  | CIKM 2021  | [PDF](https://arxiv.org/abs/2011.07126)  | [PyTorch](https://github.com/gjiaying/ZSLRC)  |
 
 #### 2.2.3 Few-Shot Reasoning on KGs
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| Meta-KGR  | Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations  | EMNLP-IJCNLP 2019  | [PDF](https://aclanthology.org/D19-1334/)  | [PyTorch](https://github.com/THU-KEG/MetaKGR)  |
+| FIRE  | Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases  | EMNLP 2020  | [PDF](https://aclanthology.org/2020.findings-emnlp.51/)  | [N/A]  |
+| THML  | When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations  | CIKM 2021  | [PDF](https://dl.acm.org/doi/10.1145/3459637.3482402)  | [N/A]  |
+| ADK-KG  | Adapting Distilled Knowledge for Few-shot Relation Reasoning over Knowledge Graphs  | SDM 2022  | [PDF](https://epubs.siam.org/doi/10.1137/1.9781611977172.75)  | [PyTorch](https://github.com/ADK-KG/ADK-KG)  |
 
 ### 2.3 Graph-Level Structure Imbalance
 
@@ -250,17 +250,15 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| SOLT-GNN  | On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks  | WWW 2022  | [PDF](https://zemin-liu.github.io/papers/SOLT-GNN-WWW-22.pdf)  | [PyTorch](https://github.com/shuaiOKshuai/SOLT-GNN)  |
+
 
 #### 2.3.2 Imbalanced Topology Groups
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| TopoImb  | TopoImb: Toward Topology-level Imbalance in Learning from Graphs  | LoG 2022  | [PDF](https://arxiv.org/abs/2212.08689)  | [N/A]  |
+
 
 # Acknowledgements
 This page is contributed and maintained by Zemin Liu (zeminliu@nus.edu.sg), Yuan Li (xxxx), and Nan Chen (xxxx). If you have any suggestions or questions, please feel free to contact us.
