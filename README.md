@@ -213,19 +213,20 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | APN-LW-JRL   | Adaptive Prototypical Networks with Label Words and Joint Representation Learning for Few-Shot Relation Classification  | TNNLS 2021  | [PDF](https://arxiv.org/abs/2101.03526)  | [N/A]  |
 | MULTIFORM  | MULTIFORM: Few-Shot Knowledge Graph Completion via Multi-modal Contexts  | ECML-PKDD 2022  | [PDF](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_354.pdf)  | [N/A]  |
 | GAPNM  | Granularity-Aware Area Prototypical Network With Bimargin Loss for Few Shot Relation Classification  | TKDE 2022  | [PDF](https://ieeexplore.ieee.org/document/9699028)  | [N/A]  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| MetaR  | Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs  | EMNLP 2019  | [PDF](https://arxiv.org/abs/1909.01515)  | [PyTorch](https://github.com/AnselCmy/MetaR)  |
+| MTransH  | Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion  | SIGIR 2021  | [PDF](https://arxiv.org/abs/2104.13095)  | [PyTorch](https://github.com/ngl567/GANA-FewShotKGC)  |
+|   | Improving Few-Shot Relation Classification by Prototypical Representation Learning with Definition Text  | NAACL 2022  | [PDF](https://aclanthology.org/2022.findings-naacl.34/)  | [N/A]  |
+| Mick  | MICK: A Meta-Learning Framework for Few-shot Relation Classification with Small Training Data  | CIKM 2020  | [PDF](https://arxiv.org/abs/2004.14164)  | [PyTorch](https://github.com/XiaoqingGeng/MICK)  |
+| HiRe  | Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion  | ICLR 2023  | [PDF](https://openreview.net/forum?id=zlwBI2gQL3K)  | [PyTorch](https://github.com/alexhw15/HiRe)  |
+| Meta-iKG  | Subgraph-aware Few-Shot Inductive Link Prediction via Meta-Learning  | TKDE 2022  | [PDF](https://arxiv.org/abs/2108.00954)  | [N/A]  |
+| Neural Snowball  | Neural Snowball for Few-Shot Relation Learning  | AAAI 2020  | [PDF](https://arxiv.org/abs/1908.11007)  | [PyTorch](https://github.com/thunlp/Neural-Snowball) |
+| REFORM  | REFORM: Error-Aware Few-Shot Knowledge Graph Completion  | CIKM 2021  | [PDF](https://chenannie45.github.io/CIKM21a.pdf)  | [PyTorch](https://github.com/SongW-SW/REFORM)  |
+| P-INT  | P-INT: A Path-based Interaction Model for Few-shot Knowledge Graph Completion  | EMNLP 2021  | [PDF](https://aclanthology.org/2021.findings-emnlp.35/)  | [PyTorch](https://github.com/RUCKBReasoning/P-INT)  |
+| CIAN  | Learning Inter-Entity-Interaction for Few-Shot Knowledge Graph Completion  | EMNLP 2022  | [PDF](https://aclanthology.org/2022.emnlp-main.524/)  | [PyTorch](https://github.com/cjlyl/FKGC-CIAN)  |
+| NP-FKGC  | Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion  | SIGIR 2023  | [PDF](https://arxiv.org/abs/2304.08183)  | [PyTorch](https://github.com/RManLuo/NP-FKGC)  |
+|   | Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion  | EMNLP-IJCNLP 2019  | [PDF](https://aclanthology.org/D19-1024/)  | [PyTorch](https://github.com/ZihaoWang/Few-shot-KGC)  |
+| GMUC  | Gaussian Metric Learning for Few-Shot Uncertain Knowledge Graph Completion  | DASFAA 2021  | [PDF](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_18)  | [PyTorch](https://github.com/zhangjiatao/GMUC)  |
+| FAEA  | Function-words Enhanced Attention Networks for Few-Shot Inverse Relation Classification  | IJCAI 2022  | [PDF](https://arxiv.org/abs/2204.12111)  | [PyTorch](https://github.com/DOU123321/FAEA-FSRC)  |
 
 #### 2.2.2 Zero-Shot Relation Classification
 
