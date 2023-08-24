@@ -260,5 +260,16 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | TopoImb  | TopoImb: Toward Topology-level Imbalance in Learning from Graphs  | LoG 2022  | [PDF](https://arxiv.org/abs/2212.08689)  | [N/A]  |
 
 
+## 3. Other Related Literature
+
+### 3.1 Fairness Learning on Graphs
+
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+
+
 # Acknowledgements
 This page is contributed and maintained by Zemin Liu (zeminliu@nus.edu.sg), Yuan Li (xxxx), and Nan Chen (xxxx). If you have any suggestions or questions, please feel free to contact us.
