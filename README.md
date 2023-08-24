@@ -9,6 +9,8 @@ Please be aware that the order of papers within each category may not strictly a
 
 # Outline
 
+The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xxx.xxx).
+
 - [1. Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#1-class-imbalance)
   - [1.1 Node-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#11-node-level-class-imbalance)
     - [1.1.1 Imbalanced Node CLassification](https://github.com/shuaiOKshuai/ILoGs#111-imbalanced-node-classification)
