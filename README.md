@@ -65,7 +65,7 @@ For a more comprehensive overview of imbalanced learning on various data, please
 | RECT  | Network Embedding with Completely-imbalanced Labels  | TKDE 2020  | [PDF](https://arxiv.org/abs/2007.03545)  | [PyTorch](https://github.com/zhengwang100/RECT)  |
 | RECT  | Expanding Semantic Knowledge for Zero-shot Graph Embedding  | DASFAA 2021  | [PDF](https://arxiv.org/abs/2103.12491)  | [N/A]  |
 | DGPN  | Zero-shot Node Classification with Decomposed Graph Prototype Network  | KDD 2021  | [PDF](https://arxiv.org/abs/2106.08022)  | [PyTorch](https://github.com/zhengwang100/dgpn)  |
-| name  | Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification  | KDD 2022  | [PDF](http://www.lamda.nju.edu.cn/conf/mla22/paper/yq-KDD2022.pdf)  | [PyTorch](https://github.com/warmerspring/DBiGCN)  |
+| DBiGCN  | Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification  | KDD 2022  | [PDF](http://www.lamda.nju.edu.cn/conf/mla22/paper/yq-KDD2022.pdf)  | [PyTorch](https://github.com/warmerspring/DBiGCN)  |
 | name  | title  | venue  | [PDF]()  | [PyTorch]()  |
 
 
