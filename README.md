@@ -26,7 +26,7 @@ Please be aware that the order of papers within each category may not strictly a
   - [2.1 Node-Level Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#21-node-level-structure-imbalance)
     - [2.1.1 Imbalanced Node Degrees](https://github.com/shuaiOKshuai/ILoGs#211-imbalanced-node-degrees)
     - [2.1.2 Node Topology Imbalance](https://github.com/shuaiOKshuai/ILoGs#212-node-topology-imbalance)
-    - [2.1.3 Long-Tail Entity Embedding](https://github.com/shuaiOKshuai/ILoGs#213-long-tail-entity-embedding)
+    - [2.1.3 Long-Tail Entity Embedding on KGs](https://github.com/shuaiOKshuai/ILoGs#213-long-tail-entity-embedding)
   - [2.2 Edge-Level Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#22-edge-level-structure-imbalance)
     - [2.2.1 Few-Shot Relation Classification](https://github.com/shuaiOKshuai/ILoGs#221-few-shot-relation-classification)
     - [2.2.2 Zero-Shot Relation Classification](https://github.com/shuaiOKshuai/ILoGs#222-zero-shot-relation-classification)
@@ -181,7 +181,7 @@ Please be aware that the order of papers within each category may not strictly a
 | PASTEL  | Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing  | CIKM 2022  | [PDF](https://arxiv.org/abs/2208.08302)  | [PyTorch](https://github.com/RingBDStack/PASTEL)  |
 | HyperIMBA  | Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification  | WWW 2023  | [PDF](https://arxiv.org/abs/2304.05059)  | [PyTorch](https://github.com/RingBDStack/HyperIMBA)  |
 
-#### 2.1.3 Long-Tail Entity Embedding
+#### 2.1.3 Long-Tail Entity Embedding on KGs
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
