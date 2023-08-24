@@ -5,6 +5,20 @@ For our taxonomy of Problems, we classify the literature based on class imbalanc
 
 For a more comprehensive overview of imbalanced learning on various data, please refer to Github Repository [Awesome-Imbalanced-Learning](https://github.com/yanliang3612/awesome-imbalanced-learning-on-geometric-and-graphs).
 
+## Outline
+
+- [Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#1-class-imbalance)
+  - [Node-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#11-node-level-class-imbalance)
+    - [1.1.1 Imbalanced Node CLassification](https://github.com/shuaiOKshuai/ILoGs#111-imbalanced-node-classification)
+    - [1.1.2 Node-Level Anomaly Detection](https://github.com/shuaiOKshuai/ILoGs#112-node-level-anomaly-detection)
+    - [1.1.3 Few-Shot Node Classification](https://github.com/shuaiOKshuai/ILoGs#113-few-shot-node-classification)
+    - [1.1.4 Zero-Shot Node Classification](https://github.com/shuaiOKshuai/ILoGs#114-zero-shot-node-classification)
+  - [Edge-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#12-edge-level-class-imbalance)
+  - [Graph-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#13-graph-level-class-imbalance)
+- [Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#2-structure-imbalance)
+
+
+
 ## 1. Class Imbalance
 
 ### 1.1 Node-Level Class Imbalance
