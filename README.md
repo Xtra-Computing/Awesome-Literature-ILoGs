@@ -26,7 +26,7 @@ Please be aware that the order of papers within each category may not strictly a
   - [2.1 Node-Level Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#21-node-level-structure-imbalance)
     - [2.1.1 Imbalanced Node Degrees](https://github.com/shuaiOKshuai/ILoGs#211-imbalanced-node-degrees)
     - [2.1.2 Node Topology Imbalance](https://github.com/shuaiOKshuai/ILoGs#212-node-topology-imbalance)
-    - [2.1.3 Long-Tail Entity Embedding on KGs](https://github.com/shuaiOKshuai/ILoGs#213-long-tail-entity-embedding)
+    - [2.1.3 Long-Tail Entity Embedding on KGs](https://github.com/shuaiOKshuai/ILoGs#213-long-tail-entity-embedding-on-kgs)
   - [2.2 Edge-Level Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#22-edge-level-structure-imbalance)
     - [2.2.1 Few-Shot Relation Classification](https://github.com/shuaiOKshuai/ILoGs#221-few-shot-relation-classification)
     - [2.2.2 Zero-Shot Relation Classification](https://github.com/shuaiOKshuai/ILoGs#222-zero-shot-relation-classification)
@@ -185,9 +185,14 @@ Please be aware that the order of papers within each category may not strictly a
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| GEN  | Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction  | NeurIPS 2020  | [PDF](https://arxiv.org/abs/2006.06648)  | [PyTorch](https://github.com/JinheonBaek/GEN)  |
+| MaKEr  | Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting  | 	IJCAI 2022  | [PDF](https://arxiv.org/abs/2205.04692)  | [PyTorch](https://github.com/zjukg/MaKEr)  |
+| MTKGE  | Meta-Learning Based Knowledge Extrapolation for Temporal Knowledge Graph  | WWW 2023  | [PDF](https://arxiv.org/abs/2302.05640)  | [N/A]  |
+| MorsE  | Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding  | SIGIR 2022  | [PDF](https://arxiv.org/abs/2110.14170)  | [PyTorch](https://github.com/zjukg/MorsE)  |
+| KG-Mixup  | Toward Degree Bias in Embedding-Based Knowledge Graph Completion  | WWW 2023  | [PDF](https://arxiv.org/abs/2302.05044)  | [PyTorch](https://github.com/HarryShomer/KG-Mixup)  |
+| DAT  | Degree-Aware Alignment for Entities in Tail  | SIGIR 2020  | [PDF](https://arxiv.org/abs/2005.12132)  | [PyTorch](https://github.com/DexterZeng/DAT)  |
+| OKELE  | Open Knowledge Enrichment for Long-tail Entities  | WWW 2020  | [PDF](https://arxiv.org/abs/2002.06397)  | [TensorFlow](https://github.com/nju-websoft/OKELE/)  |
+
 
 ### 2.2 Edge-Level Structure Imbalance 
 
@@ -195,6 +200,27 @@ Please be aware that the order of papers within each category may not strictly a
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Gmatching  | One-Shot Relational Learning for Knowledge Graphs  | EMNLP 2018  | [PDF](https://arxiv.org/abs/1808.09040)  | [PyTorch](https://github.com/xwhan/One-shot-Relational-Learning)  |
+| FSRL  | Few-Shot Knowledge Graph Completion  | AAAI 2020  | [PDF](https://arxiv.org/abs/1911.11298)  | [PyTorch](https://github.com/chuxuzhang/AAAI2020_FSRL)  |
+| MetaP  | MetaP: Meta Pattern Learning for One-Shot Knowledge Graph Completion  | SIGIR 2021  | [PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3463086)  | [PyTorch](https://github.com/jzystc/metap)  |
+| Proto-HATT  | Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification  | AAAI 2019  | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/4604)  | [PyTorch](https://github.com/thunlp/HATT-Proto)  |
+| KEFDA  | Knowledge-Enhanced Domain Adaptation in Few-Shot Relation Classification  | KDD 2021  | [PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467438)  | [PyTorch](https://github.com/imJiawen/KEFDA)  |
+| IAN  | Multi-view Interaction Learning for Few-Shot Relation Classification  | CIKM 2021  | [PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482280)  | [N/A]  |
+| HMNet  | HMNet: Hybrid Matching Network for Few-Shot Link Prediction  | DASFAA 2021  | [PDF](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_21)  | [N/A]  |
+| FAAN  | Adaptive Attentional Network for Few-Shot Knowledge Graph Completion  | EMNLP 2020  | [PDF](https://aclanthology.org/2020.emnlp-main.131/)  | [PyTorch](https://github.com/JiaweiSheng/FAAN)  |
+| APN-LW-JRL   | Adaptive Prototypical Networks with Label Words and Joint Representation Learning for Few-Shot Relation Classification  | TNNLS 2021  | [PDF](https://arxiv.org/abs/2101.03526)  | [N/A]  |
+| MULTIFORM  | MULTIFORM: Few-Shot Knowledge Graph Completion via Multi-modal Contexts  | ECML-PKDD 2022  | [PDF](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_354.pdf)  | [N/A]  |
+| GAPNM  | Granularity-Aware Area Prototypical Network With Bimargin Loss for Few Shot Relation Classification  | TKDE 2022  | [PDF](https://ieeexplore.ieee.org/document/9699028)  | [N/A]  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
 | name  | title  | venue  | [PDF]()  | [PyTorch]()  |
 | name  | title  | venue  | [PDF]()  | [PyTorch]()  |
 | name  | title  | venue  | [PDF]()  | [PyTorch]()  |
