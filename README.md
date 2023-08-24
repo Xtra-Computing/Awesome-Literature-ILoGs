@@ -7,15 +7,31 @@ For a more comprehensive overview of imbalanced learning on various data, please
 
 ## Outline
 
-- [Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#1-class-imbalance)
-  - [Node-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#11-node-level-class-imbalance)
+- [1. Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#1-class-imbalance)
+  - [1.1 Node-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#11-node-level-class-imbalance)
     - [1.1.1 Imbalanced Node CLassification](https://github.com/shuaiOKshuai/ILoGs#111-imbalanced-node-classification)
     - [1.1.2 Node-Level Anomaly Detection](https://github.com/shuaiOKshuai/ILoGs#112-node-level-anomaly-detection)
     - [1.1.3 Few-Shot Node Classification](https://github.com/shuaiOKshuai/ILoGs#113-few-shot-node-classification)
     - [1.1.4 Zero-Shot Node Classification](https://github.com/shuaiOKshuai/ILoGs#114-zero-shot-node-classification)
-  - [Edge-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#12-edge-level-class-imbalance)
-  - [Graph-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#13-graph-level-class-imbalance)
-- [Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#2-structure-imbalance)
+  - [1.2 Edge-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#12-edge-level-class-imbalance)
+    - [1.2.1 Few-Shot Link Prediction](https://github.com/shuaiOKshuai/ILoGs#121-few-shot-link-prediction)
+    - [1.2.2 Edge-Level Anomaly Detection](https://github.com/shuaiOKshuai/ILoGs#122-edge-level-anomaly-detection)
+  - [1.3 Graph-Level Class Imbalance](https://github.com/shuaiOKshuai/ILoGs#13-graph-level-class-imbalance)
+    - [1.3.1 Imbalanced Graph Classification](https://github.com/shuaiOKshuai/ILoGs#131-imbalanced-graph-classification)
+    - [1.3.2 Graph_Level Anomaly Detection](https://github.com/shuaiOKshuai/ILoGs#132-graph_level-anomaly-detection)
+    - [1.3.3 Few-Shot Graph Classification](https://github.com/shuaiOKshuai/ILoGs#133-few-shot-graph-classification)
+- [2. Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#2-structure-imbalance)
+  - [2.1 Node-Level Structure Imbalance](https://github.com/shuaiOKshuai/ILoGs#21-node-level-structure-imbalance)
+    - []()
+    - []()
+    - []()
+  - []()
+    - []()
+    - []()
+    - []()
+  - []()
+    - []()
+    - []()
 
 
 
