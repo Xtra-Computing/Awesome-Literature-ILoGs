@@ -5,7 +5,7 @@ For our taxonomy of Problems, we classify the literature based on class imbalanc
 
 For a more comprehensive overview of imbalanced learning on various data, please refer to Github Repository [Awesome-Imbalanced-Learning](https://github.com/yanliang3612/awesome-imbalanced-learning-on-geometric-and-graphs).
 
-Note that, the order of papers in each category may not follow the time order, and they generally have the same order that is illustrated in our survey.
+Please be aware that the order of papers within each category may not strictly adhere to chronological sequence; instead, it generally aligns with the structure presented in our survey.
 
 # Outline
 
@@ -160,9 +160,18 @@ Note that, the order of papers in each category may not follow the time order, a
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| Demo-Net  | DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification  | KDD 2019  | [PDF](https://arxiv.org/pdf/1906.02319.pdf)  | [TensorFlow](https://github.com/jwu4sml/DEMO-Net)  |
+| SL-DSGCN  | Investigating and Mitigating Degree-Related Biases in Graph Convolutional Networks  | CIKM 2020  | [PDF](https://arxiv.org/abs/2006.15643)  | [N/A]  |
+| meta-tail2vec  | Towards Locality-Aware Meta-Learning of Tail Node Embeddings on Networks  | CIKM 2020  | [PDF](https://zemin-liu.github.io/papers/CIKM-20-towards-locality-aware-meta-learning-of-tail-node-embeddings-on-network.pdf)  | [TensorFlow](https://github.com/smufang/meta-tail2vec)  |
+| Tail-GNN  | Tail-GNN: Tail-Node Graph Neural Networks  | KDD 2021  | [PDF](https://zemin-liu.github.io/papers/Tail-GNN-KDD-21.pdf)  | [PyTorch](https://github.com/shuaiOKshuai/Tail-GNN)  |
+| Residual2Vec  | Residual2Vec: Debiasing graph embedding with random graphs  | NeurIPS 2021  | [PDF](https://arxiv.org/abs/2110.07654)  | [PyTorch](https://github.com/skojaku/residual2vec)  |
+| CenGCN  | CenGCN: Centralized Convolutional Networks with Vertex Imbalance for Scale-Free Graphs  | TKDE 2022  | [PDF](https://arxiv.org/abs/2202.07826)  | [N/A]  |
+| BLADE  | BLADE: Biased Neighborhood Sampling based Graph Neural Network for Directed Graphs  | WSDM 2023  | [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570430)  | [N/A]  |
+| DHGAT  | A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce  | KDD 2020  | [PDF](http://shichuan.org/hin/topic/Similarity%20Measure/KDD2020.A%20Dual%20Heterogeneous%20Graph%20Attention%20Network%20to%20Improve%20Long-Tail%20Performance%20for%20Shop%20Search%20in%20E-Commerce.pdf)  | [N/A]  |
+|   | Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation  | WSDM 2021  | [PDF](https://arxiv.org/abs/2012.07064)  | [TensorFlow](https://github.com/jerryhao66/Pretrain-Recsys)  |
+| MetaDyGNN  | Few-shot Link Prediction in Dynamic Networks  | WSDM 2022  | [PDF](http://www.shichuan.org/doc/120.pdf)  | [PyTorch](https://github.com/BUPT-GAMMA/MetaDyGNN)  |
+| Cold Brew  | Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods  | ICLR 2022  | [PDF](https://arxiv.org/abs/2111.04840)  | [PyTorch](https://github.com/amazon-science/gnn-tail-generalization)  |
+
 
 #### 2.1.2 Node Topology Imbalance
 
