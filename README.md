@@ -177,9 +177,9 @@ Please be aware that the order of papers within each category may not strictly a
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| ReNode  | Topology-Imbalance Learning for Semi-Supervised Node Classification  | NeurIPS 2021  | [PDF](https://arxiv.org/abs/2110.04099)  | [PyTorch](https://github.com/victorchen96/ReNode)  |
+| PASTEL  | Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing  | CIKM 2022  | [PDF](https://arxiv.org/abs/2208.08302)  | [PyTorch](https://github.com/RingBDStack/PASTEL)  |
+| HyperIMBA  | Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification  | WWW 2023  | [PDF](https://arxiv.org/abs/2304.05059)  | [PyTorch](https://github.com/RingBDStack/HyperIMBA)  |
 
 #### 2.1.3 Long-Tail Entity Embedding
 
