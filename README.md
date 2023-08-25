@@ -294,13 +294,13 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CFC  | Compositional fairness constraints for graph embeddings  |  ICML 2019  | [PDF](https://arxiv.org/abs/1905.10674)  | [PyTorch](https://github.com/joeybose/Flexible-Fairness-Constraints)  |
 |   | Exploring algorithmic fairness in robust graph covering problems  | NIPS 2019  | [PDF](https://arxiv.org/abs/2006.06865)  | [PyTorch](https://github.com/Aida-Rahmattalabi/FairGraphCovering)  |
-| Fairwalk  | Fairwalk: Towards fair graph embedding  | IJCAI 2019  | [PDF](https://www.ijcai.org/proceedings/2019/456)  | [NetworkX](https://github.com/EnderGed/Fairwalk)  |
+| Fairwalk  | Fairwalk: Towards fair graph embedding  | IJCAI 2019  | [PDF](https://www.ijcai.org/proceedings/2019/456)  | [Python](https://github.com/EnderGed/Fairwalk)  |
 |   | Spectral relaxations and fair densest subgraphs  | CIKM 2020  | [PDF](https://dl.acm.org/doi/10.1145/3340531.3412036)  | [N/A]  |
 |   | Fairness-aware explainable recommendation over knowledge graphs  | SIGIR 2020  | [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401051)  | [N/A](https://github.com/zuohuif/FairKG4Rec)  |
 | MaxFair  | On the information unfairness of social networks  | SDM 2020 | [PDF](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.69)  | [N/A]  |
 | FairGNN  | Say no to the discrimination: Learning fair graph neural networks with limited sensitive attribute information  | WSDM 2021  | [PDF](https://arxiv.org/abs/2009.01454)  | [PyTorch](https://github.com/EnyanDai/FairGNN)  |
-| InFoRM  | Inform: Individual fairness on graph mining  | KDD 2020  | [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403080)  | [NetworkX](https://github.com/jiank2/inform)  |
-| DeBayes  | Debayes: a bayesian method for debiasing network embeddings  | ICML 2020  | [PDF](https://arxiv.org/abs/2002.11442)  | [NetworkX](https://github.com/aida-ugent/DeBayes)  |
+| InFoRM  | Inform: Individual fairness on graph mining  | KDD 2020  | [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403080)  | [Python](https://github.com/jiank2/inform)  |
+| DeBayes  | Debayes: a bayesian method for debiasing network embeddings  | ICML 2020  | [PDF](https://arxiv.org/abs/2002.11442)  | [Python](https://github.com/aida-ugent/DeBayes)  |
 | MLSD  | Fairness in network representation by latent structural heterogeneity in observational data  | AAAI 2020  | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5792)  | [N/A] |
 | REDRESS  | Individual fairness for graph neural networks: A ranking based approach  | KDD 2021  | [PDF](https://dl.acm.org/doi/10.1145/3447548.3467266)  | [TensorFlow](https://github.com/yushundong/REDRESS)  |
 | FairGAE  | Fair graph auto-encoder for unbiased graph representations with wasserstein distance  | ICDM 2021  | [PDF](https://ieeexplore.ieee.org/document/9679109)  | [N/A]  |
@@ -309,7 +309,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | Fairness-Aware PageRank  | Fairness-aware pagerank  | WWW 2021 | [PDF](https://arxiv.org/abs/2005.14431)  | [Python & C++](https://github.com/SotirisTsioutsiouliklis/FairLaR)  |
 | FairAdj  | On dyadic fairness: Exploring and mitigating bias in graph connections  | ICLR 2021  | [PDF](https://openreview.net/forum?id=xgGS6PmzNq6)  | [PyTorch](https://github.com/brandeis-machine-learning/FairAdj)  |
 |  | Subgroup generalization and fair- ness of graph neural networks | NIPS 2021  | [PDF](https://arxiv.org/abs/2106.15535)  | [PyTorch](https://github.com/TheaperDeng/GNN-Generalization-Fairness)  |
-| MMSS  | Socially fair mitigation of misinformation on social networks via constraint stochastic optimization  | AAAI 2022  | [PDF](https://arxiv.org/abs/2203.12537)  | [NumPy](https://github.com/Ahmed-Abouzeid/MMSS)  |
+| MMSS  | Socially fair mitigation of misinformation on social networks via constraint stochastic optimization  | AAAI 2022  | [PDF](https://arxiv.org/abs/2203.12537)  | [Python](https://github.com/Ahmed-Abouzeid/MMSS)  |
 | CrossWalk  | Crosswalk: Fairness-enhanced node representation learning  | AAAI 2022  | [PDF](https://arxiv.org/abs/2105.02725)  | [Scikit-Learn](https://github.com/ahmadkhajehnejad/CrossWalk)  |
 | FairDrop  | Fairdrop: Biased edge dropout for enhancing fairness in graph representation learning  | IEEE Trans. Artif. Intell. 2022  | [PDF](https://arxiv.org/abs/2104.14210)  | [PyTorch](https://github.com/ispamm/FairDrop)  |
 | FairVGNN  | Improving fairness in graph neural networks via mitigating sensitive attribute leakage  | KDD 2022  | [PDF](https://arxiv.org/abs/2206.03426)  | [PyTorch](https://github.com/YuWVandy/FairVGNN)  |
