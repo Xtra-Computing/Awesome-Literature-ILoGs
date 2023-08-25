@@ -123,7 +123,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| AddGraph  | AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN | IJCAI 2019 | [PDF](https://www.ijcai.org/Proceedings/2019/0614.pdf)  | [N/A]  |
+| AddGraph  | AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN | IJCAI 2019 | [PDF](https://www.ijcai.org/Proceedings/2019/0614.pdf)  | [PyTorch](https://github.com/Ljiajie/Addgraph)  |
 | NEDM  | A Nodes' Evolution Diversity Inspired Method to Detect Anomalies in Dynamic Social Networks | TKDE 2019 | [PDF](https://ieeexplore.ieee.org/document/8695818)  | [N/A]  |
 |  | Anomaly detection in the dynamics of web and social networks using associative memory  | WWW 2019 | [PDF](https://arxiv.org/pdf/1901.09688.pdf)  | [N/A]  |
 | AANE  | AANE: Anomaly Aware Network Embedding for Anomalous Link Detection  | ICDM 2020 | [PDF](https://ieeexplore.ieee.org/document/9338406)  | [N/A]  |
@@ -292,9 +292,42 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
-| name  | title  | venue  | [PDF]()  | [PyTorch]()  |
+| CFC  | Compositional fairness constraints for graph embeddings  |  ICML 2019  | [PDF](https://arxiv.org/abs/1905.10674)  | [PyTorch](https://github.com/joeybose/Flexible-Fairness-Constraints)  |
+|   | Exploring algorithmic fairness in robust graph covering problems  | NIPS 2019  | [PDF](https://arxiv.org/abs/2006.06865)  | [PyTorch](https://github.com/Aida-Rahmattalabi/FairGraphCovering)  |
+| Fairwalk  | Fairwalk: Towards fair graph embedding  | IJCAI 2019  | [PDF](https://www.ijcai.org/proceedings/2019/456)  | [NetworkX](https://github.com/EnderGed/Fairwalk)  |
+|   | Spectral relaxations and fair densest subgraphs  | CIKM 2020  | [PDF](https://dl.acm.org/doi/10.1145/3340531.3412036)  | [N/A]  |
+|   | Fairness-aware explainable recommendation over knowledge graphs  | SIGIR 2020  | [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401051)  | [N/A]  |
+| MaxFair  | On the information unfairness of social networks  | SDM 2020 | [PDF](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.69)  | [N/A]  |
+| FairGNN  | Say no to the discrimination: Learning fair graph neural networks with limited sensitive attribute information  | WSDM 2021  | [PDF](https://arxiv.org/abs/2009.01454)  | [PyTorch](https://github.com/EnyanDai/FairGNN)  |
+| InFoRM  | Inform: Individual fairness on graph mining  | KDD 2020  | [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403080)  | [NetworkX](https://github.com/jiank2/inform)  |
+| DeBayes  | Debayes: a bayesian method for debiasing network embeddings  | ICML 2020  | [PDF](https://arxiv.org/abs/2002.11442)  | [NetworkX](https://github.com/aida-ugent/DeBayes)  |
+| MLSD  | Fairness in network representation by latent structural heterogeneity in observational data  | AAAI 2020  | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5792)  | [N/A] |
+| REDRESS  | Individual fairness for graph neural networks: A ranking based approach  | KDD 2021  | [PDF](https://dl.acm.org/doi/10.1145/3447548.3467266)  | [TensorFlow](https://github.com/yushundong/REDRESS)  |
+| FairGAE  | Fair graph auto-encoder for unbiased graph representations with wasserstein distance  | ICDM 2021  | [PDF](https://ieeexplore.ieee.org/document/9679109)  | [N/A]  |
+| MCCNIFTY  | A multi-view confidence-calibrated framework for fair and stable graph representation learning  | ICDM 2021  | [PDF](https://ieeexplore.ieee.org/document/9679093)  | [N/A]  |
+|  | Certification and trade-off of multiple fairness criteria in graph-based spam detection  | CIKM 2021  | [PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482325)  | [N/A]  |
+| Fairness-Aware PageRank  | Fairness-aware pagerank  | WWW 2021 | [PDF](https://arxiv.org/abs/2005.14431)  | [Python & C++](https://github.com/SotirisTsioutsiouliklis/FairLaR)  |
+| FairAdj  | On dyadic fairness: Exploring and mitigating bias in graph connections  | ICLR 2021  | [PDF](https://openreview.net/forum?id=xgGS6PmzNq6)  | [PyTorch](https://github.com/brandeis-machine-learning/FairAdj)  |
+|  | Subgroup generalization and fair- ness of graph neural networks | NIPS 2021  | [PDF](https://arxiv.org/abs/2106.15535)  | [PyTorch](https://github.com/TheaperDeng/GNN-Generalization-Fairness)  |
+| MMSS  | Socially fair mitigation of misinformation on social networks via constraint stochastic optimization  | AAAI 2022  | [PDF](https://arxiv.org/abs/2203.12537)  | [NumPy](https://github.com/Ahmed-Abouzeid/MMSS)  |
+| CrossWalk  | Crosswalk: Fairness-enhanced node representation learning  | AAAI 2022  | [PDF](https://arxiv.org/abs/2105.02725)  | [N/A]  |
+| FairDrop  | Fairdrop: Biased edge dropout for enhancing fairness in graph representation learning  | IEEE Trans. Artif. Intell. 2022  | [PDF](https://arxiv.org/abs/2104.14210)  | [PyTorch](https://github.com/ispamm/FairDrop)  |
+| FairVGNN  | Improving fairness in graph neural networks via mitigating sensitive attribute leakage  | KDD 2022  | [PDF](https://arxiv.org/abs/2206.03426)  | [PyTorch](https://github.com/YuWVandy/FairVGNN)  |
+| GUIDE  | Guide: Group equality informed individual fairness in graph neural networks  | KDD 2022  | [PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539346)  | [PyTorch](https://github.com/weihaosong/GUIDE)  |
+| REFEREE  | On structural explanation of bias in graph neural networks  | KDD 2022  | [PDF](https://arxiv.org/abs/2206.12104)  | [PyTorch](https://github.com/yushundong/REFEREE)  |
+| UD-GNN  | UD-GNN: uncertainty-aware debiased training on semi-homophilous graphs  | KDD 2022  | [PDF](https://dl.acm.org/doi/10.1145/3534678.3539483)  | [N/A]  |
+| GEAR  | Learning fair node representations with graph counterfactual fairness  | WSDM 2022 | [PDF](https://arxiv.org/abs/2201.03662)  | [PyTorch](https://github.com/jma712/gear)  |
+| EDITS  | Edits: Modeling and mitigating data bias for graph neural networks  | WWW 2022  | [PDF](https://arxiv.org/abs/2108.05233)  | [PyTorch](https://github.com/yushundong/EDITS)  |
+| UGE  | Unbiased graph embedding with biased graph observations  | WWW 2022  | [PDF](https://arxiv.org/abs/2110.13957)  | [PyTorch](https://github.com/MyTHWN/UGE-Unbiased-Graph-Embedding)  |
+|   | Adversarial inter-group link injection degrades the fairness of graph neural networks  | ICDM 2022  | [PDF](https://arxiv.org/abs/2209.05957)  | [PyTorch](https://github.com/mengcao327/attack-gnn-fairness)  |
+| BA-GNN  | Ba-gnn:On learning bias-aware graph neural network  | ICDE 2022  | [PDF](https://ieeexplore.ieee.org/document/9835653)  | [N/A]  |
+| FairAC  | Fair attribute completion on graph with missing attributes  | ICLR 2023  | [PDF](https://arxiv.org/abs/2302.12977)  | [PyTorch](https://github.com/donglgcn/FairAC)  |
+| Graphair  | Learning fair graph representations via automated data augmentations  | ICLR 2023  | [PDF](https://openreview.net/forum?id=1_OGWcP1s9w)  | [PyTorch](https://github.com/divelab/DIG)  |
+| FAIRTCIM  | On the fairness of time-critical influence maximization in social networks  | TKDE 2023  | [PDF](https://arxiv.org/abs/1905.06618)  | [N/A] |
+| CGF  | Path-specific causal fair prediction via auxiliary graph structure learning  | WWW 2023  | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583280)  | [N/A]  |
+| F-SEGA  | Fairness-aware clique-preserving spectral clustering of temporal graphs  | WWW 2023  | [PDF](https://dl.acm.org/doi/10.1145/3543507.3583423)  | [N/A]  |
+| G-Fame  | Fair graph representation learning via diverse mixture-of-experts  | WWW 2023  | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583207)  | [N/A]  |
+| RELIANT  | RELIANT: Fair Knowledge Distillation for Graph Neural Networks  | ICDM 2023  | [PDF](https://arxiv.org/abs/2301.01150)  | [PyTorch](https://github.com/yushundong/reliant)  |
 
 
 # Acknowledgements
