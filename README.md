@@ -310,7 +310,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | FairAdj  | On dyadic fairness: Exploring and mitigating bias in graph connections  | ICLR 2021  | [PDF](https://openreview.net/forum?id=xgGS6PmzNq6)  | [PyTorch](https://github.com/brandeis-machine-learning/FairAdj)  |
 |  | Subgroup generalization and fair- ness of graph neural networks | NIPS 2021  | [PDF](https://arxiv.org/abs/2106.15535)  | [PyTorch](https://github.com/TheaperDeng/GNN-Generalization-Fairness)  |
 | MMSS  | Socially fair mitigation of misinformation on social networks via constraint stochastic optimization  | AAAI 2022  | [PDF](https://arxiv.org/abs/2203.12537)  | [NumPy](https://github.com/Ahmed-Abouzeid/MMSS)  |
-| CrossWalk  | Crosswalk: Fairness-enhanced node representation learning  | AAAI 2022  | [PDF](https://arxiv.org/abs/2105.02725)  | [N/A]  |
+| CrossWalk  | Crosswalk: Fairness-enhanced node representation learning  | AAAI 2022  | [PDF](https://arxiv.org/abs/2105.02725)  | [Scikit-Learn](https://github.com/ahmadkhajehnejad/CrossWalk)  |
 | FairDrop  | Fairdrop: Biased edge dropout for enhancing fairness in graph representation learning  | IEEE Trans. Artif. Intell. 2022  | [PDF](https://arxiv.org/abs/2104.14210)  | [PyTorch](https://github.com/ispamm/FairDrop)  |
 | FairVGNN  | Improving fairness in graph neural networks via mitigating sensitive attribute leakage  | KDD 2022  | [PDF](https://arxiv.org/abs/2206.03426)  | [PyTorch](https://github.com/YuWVandy/FairVGNN)  |
 | GUIDE  | Guide: Group equality informed individual fairness in graph neural networks  | KDD 2022  | [PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539346)  | [PyTorch](https://github.com/weihaosong/GUIDE)  |
