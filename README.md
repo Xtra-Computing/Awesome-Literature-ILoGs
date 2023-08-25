@@ -145,7 +145,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 
 | Name  | Title | Venue | Paper | Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| STREAMSPOT  | Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs  | KDD 2016 | [PDF](https://arxiv.org/pdf/1602.04844.pdf)  | [NetworkX](https://git.ece.iastate.edu/yizenov1/stream-graph-anomaly-detection)  |
+| STREAMSPOT  | Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs  | KDD 2016 | [PDF](https://arxiv.org/pdf/1602.04844.pdf)  | [Python](https://git.ece.iastate.edu/yizenov1/stream-graph-anomaly-detection)  |
 | Graph-TPP  | Query-Driven Discovery of Anomalous Subgraphs in Attributed Graphs  | IJCAI 2017  | [PDF](https://www.ijcai.org/proceedings/2017/0433.pdf)  | [N/A]  |
 | AMEN  | Discovering Communities and Anomalies in Attributed Graphs: Interactive Visual Exploration and Summarization  | TKDD 2018  | [PDF](https://dl.acm.org/doi/10.1145/3139241)  | [N/A] |
 |  | Concept Drift and Anomaly Detection in Graph Streams | TNNLS 2018  | [PDF](https://arxiv.org/abs/1706.06941)  | [N/A]  |
@@ -156,7 +156,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | GLocalKD  | Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation  | WSDM 2022  | [PDF](https://arxiv.org/abs/2112.10063)  | [PyTorch](https://github.com/RongrongMa/GLocalKD)  |
 | OCGTL  | Raising the Bar in Graph-level Anomaly Detection  | IJCAI 2022  | [PDF](https://arxiv.org/abs/2205.13845)  | [PyTorch](https://github.com/boschresearch/GraphLevel-AnomalyDetection)  |
 | AS-GA  | Unsupervised Deep Subgraph Anomaly Detection  | CIKM 2022  | [PDF](https://ieeexplore.ieee.org/document/10027633)  | [PyTorch](https://github.com/rollingstonezz/subgraph_anomaly_detection_icdm22)  |
-| AntiBenford  | AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks  | KDD 2022  | [PDF](https://arxiv.org/abs/2205.13426)  | [NetworkX](https://github.com/tsourakakis-lab/antibenford-subgraphs)  |
+| AntiBenford  | AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks  | KDD 2022  | [PDF](https://arxiv.org/abs/2205.13426)  | [Python](https://github.com/tsourakakis-lab/antibenford-subgraphs)  |
 | CNSS  | Calibrated Nonparametric Scan Statistics for Anomalous Pattern Detection in Graphs  | AAAI 2022  | [PDF](https://arxiv.org/abs/2206.12786)  | [N/A]  |
 | ACGPMiner  | Efficient Anomaly Detection in Property Graphs  | DASFAA 2023  | [PDF](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_9)  | [N/A]  |
 
