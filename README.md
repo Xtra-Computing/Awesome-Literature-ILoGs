@@ -296,7 +296,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 |   | Exploring algorithmic fairness in robust graph covering problems  | NIPS 2019  | [PDF](https://arxiv.org/abs/2006.06865)  | [PyTorch](https://github.com/Aida-Rahmattalabi/FairGraphCovering)  |
 | Fairwalk  | Fairwalk: Towards fair graph embedding  | IJCAI 2019  | [PDF](https://www.ijcai.org/proceedings/2019/456)  | [NetworkX](https://github.com/EnderGed/Fairwalk)  |
 |   | Spectral relaxations and fair densest subgraphs  | CIKM 2020  | [PDF](https://dl.acm.org/doi/10.1145/3340531.3412036)  | [N/A]  |
-|   | Fairness-aware explainable recommendation over knowledge graphs  | SIGIR 2020  | [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401051)  | [N/A]  |
+|   | Fairness-aware explainable recommendation over knowledge graphs  | SIGIR 2020  | [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401051)  | [N/A](https://github.com/zuohuif/FairKG4Rec)  |
 | MaxFair  | On the information unfairness of social networks  | SDM 2020 | [PDF](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.69)  | [N/A]  |
 | FairGNN  | Say no to the discrimination: Learning fair graph neural networks with limited sensitive attribute information  | WSDM 2021  | [PDF](https://arxiv.org/abs/2009.01454)  | [PyTorch](https://github.com/EnyanDai/FairGNN)  |
 | InFoRM  | Inform: Individual fairness on graph mining  | KDD 2020  | [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403080)  | [NetworkX](https://github.com/jiank2/inform)  |
@@ -328,7 +328,6 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | F-SEGA  | Fairness-aware clique-preserving spectral clustering of temporal graphs  | WWW 2023  | [PDF](https://dl.acm.org/doi/10.1145/3543507.3583423)  | [N/A](https://github.com/DongqiFu/F-SEGA)  |
 | G-Fame  | Fair graph representation learning via diverse mixture-of-experts  | WWW 2023  | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583207)  | [N/A]  |
 | RELIANT  | RELIANT: Fair Knowledge Distillation for Graph Neural Networks  | ICDM 2023  | [PDF](https://arxiv.org/abs/2301.01150)  | [PyTorch](https://github.com/yushundong/reliant)  |
-
 
 # Acknowledgements
 This page is contributed and maintained by Zemin Liu (zeminliu@nus.edu.sg), Yuan Li (li.yuan@nus.edu.sg), and Nan Chen (nanchen@nus.edu.sg). If you have any suggestions or questions, please feel free to contact us.
