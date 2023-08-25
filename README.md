@@ -328,6 +328,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | F-SEGA  | Fairness-aware clique-preserving spectral clustering of temporal graphs  | WWW 2023  | [PDF](https://dl.acm.org/doi/10.1145/3543507.3583423)  | [N/A]  |
 | G-Fame  | Fair graph representation learning via diverse mixture-of-experts  | WWW 2023  | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583207)  | [N/A]  |
 | RELIANT  | RELIANT: Fair Knowledge Distillation for Graph Neural Networks  | ICDM 2023  | [PDF](https://arxiv.org/abs/2301.01150)  | [PyTorch](https://github.com/yushundong/reliant)  |
+| DegFairGNN  | On Generalized Degree Fairness in Graph Neural Networks  | AAAI 2023  | [PDF](https://arxiv.org/abs/2302.03881)  | [PyTorch](https://github.com/ntkien1904/DegFairGNN)  |
 
 
 # Acknowledgements
