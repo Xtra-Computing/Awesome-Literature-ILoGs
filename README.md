@@ -315,7 +315,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | FairVGNN  | Improving fairness in graph neural networks via mitigating sensitive attribute leakage  | KDD 2022  | [PDF](https://arxiv.org/abs/2206.03426)  | [PyTorch](https://github.com/YuWVandy/FairVGNN)  |
 | GUIDE  | Guide: Group equality informed individual fairness in graph neural networks  | KDD 2022  | [PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539346)  | [PyTorch](https://github.com/weihaosong/GUIDE)  |
 | REFEREE  | On structural explanation of bias in graph neural networks  | KDD 2022  | [PDF](https://arxiv.org/abs/2206.12104)  | [PyTorch](https://github.com/yushundong/REFEREE)  |
-| UD-GNN  | UD-GNN: uncertainty-aware debiased training on semi-homophilous graphs  | KDD 2022  | [PDF](https://dl.acm.org/doi/10.1145/3534678.3539483)  | [N/A]  |
+| UD-GNN  | UD-GNN: uncertainty-aware debiased training on semi-homophilous graphs  | KDD 2022  | [PDF](https://dl.acm.org/doi/10.1145/3534678.3539483)  | [N/A](https://github.com/PonderLY/UD-GNN)  |
 | GEAR  | Learning fair node representations with graph counterfactual fairness  | WSDM 2022 | [PDF](https://arxiv.org/abs/2201.03662)  | [PyTorch](https://github.com/jma712/gear)  |
 | EDITS  | Edits: Modeling and mitigating data bias for graph neural networks  | WWW 2022  | [PDF](https://arxiv.org/abs/2108.05233)  | [PyTorch](https://github.com/yushundong/EDITS)  |
 | UGE  | Unbiased graph embedding with biased graph observations  | WWW 2022  | [PDF](https://arxiv.org/abs/2110.13957)  | [PyTorch](https://github.com/MyTHWN/UGE-Unbiased-Graph-Embedding)  |
@@ -325,10 +325,9 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | Graphair  | Learning fair graph representations via automated data augmentations  | ICLR 2023  | [PDF](https://openreview.net/forum?id=1_OGWcP1s9w)  | [PyTorch](https://github.com/divelab/DIG)  |
 | FAIRTCIM  | On the fairness of time-critical influence maximization in social networks  | TKDE 2023  | [PDF](https://arxiv.org/abs/1905.06618)  | [N/A] |
 | CGF  | Path-specific causal fair prediction via auxiliary graph structure learning  | WWW 2023  | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583280)  | [N/A]  |
-| F-SEGA  | Fairness-aware clique-preserving spectral clustering of temporal graphs  | WWW 2023  | [PDF](https://dl.acm.org/doi/10.1145/3543507.3583423)  | [N/A]  |
+| F-SEGA  | Fairness-aware clique-preserving spectral clustering of temporal graphs  | WWW 2023  | [PDF](https://dl.acm.org/doi/10.1145/3543507.3583423)  | [N/A](https://github.com/DongqiFu/F-SEGA)  |
 | G-Fame  | Fair graph representation learning via diverse mixture-of-experts  | WWW 2023  | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583207)  | [N/A]  |
 | RELIANT  | RELIANT: Fair Knowledge Distillation for Graph Neural Networks  | ICDM 2023  | [PDF](https://arxiv.org/abs/2301.01150)  | [PyTorch](https://github.com/yushundong/reliant)  |
-| DegFairGNN  | On Generalized Degree Fairness in Graph Neural Networks  | AAAI 2023  | [PDF](https://arxiv.org/abs/2302.03881)  | [PyTorch](https://github.com/ntkien1904/DegFairGNN)  |
 
 
 # Acknowledgements
