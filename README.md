@@ -5,7 +5,6 @@ For our taxonomy of **Problems**, we classify the literature based on **class im
 
 For a more comprehensive overview of imbalanced learning on various data, please refer to Github Repository [Awesome-Imbalanced-Learning](https://github.com/yanliang3612/awesome-imbalanced-learning-on-geometric-and-graphs).
 
-Please note that the order of papers within each category may not strictly adhere to chronological sequence; instead, it generally aligns with the structure presented in our survey.
 
 # Outline
 
