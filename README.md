@@ -6,6 +6,16 @@ For our taxonomy of **Problems**, we classify the literature based on **class im
 For a more comprehensive overview of imbalanced learning on various data, please refer to Github Repository [Awesome-Imbalanced-Learning](https://github.com/yanliang3612/awesome-imbalanced-learning-on-geometric-and-graphs).
 
 
+# Citation
+
+      @article{liu2023surveyilogs,
+        title={A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions},
+        author={Liu, Zemin and Li, Yuan and Chen, Nan and Wang, Qian and Hooi, Bryan and He, Bingsheng},
+        journal={arXiv preprint arXiv:2308.13821},
+        year={2023}
+      }
+      
+
 # Outline
 
 The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xxx.xxx).
@@ -421,14 +431,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 | G-Fame  | Fair graph representation learning via diverse mixture-of-experts  | WWW 2023  | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583207)  | [N/A]  |
 | RELIANT  | RELIANT: Fair Knowledge Distillation for Graph Neural Networks  | ICDM 2023  | [PDF](https://arxiv.org/abs/2301.01150)  | [PyTorch](https://github.com/yushundong/reliant)  |
 
-# Citation
 
-      @article{liu2023surveyilogs,
-        title={A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions},
-        author={Liu, Zemin and Li, Yuan and Chen, Nan and Wang, Qian and Hooi, Bryan and He, Bingsheng},
-        journal={arXiv preprint arXiv:2308.13821},
-        year={2023}
-      }
 
 # Acknowledgements
 This page is contributed and maintained by Zemin Liu (zeminliu@nus.edu.sg), Yuan Li (li.yuan@nus.edu.sg), and Nan Chen (nanchen@nus.edu.sg). If you have any suggestions or questions, please feel free to contact us.
