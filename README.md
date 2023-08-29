@@ -434,4 +434,4 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 
 
 # Acknowledgements
-This page is contributed and maintained by Zemin Liu (zeminliu@nus.edu.sg), Yuan Li (li.yuan@nus.edu.sg), and Nan Chen (nanchen@nus.edu.sg). If you have any suggestions or questions, please feel free to contact us.
+This page is contributed and maintained by [Zemin Liu](https://zemin-liu.github.io/) (zeminliu@nus.edu.sg), Yuan Li (li.yuan@nus.edu.sg), and Nan Chen (nanchen@nus.edu.sg). If you have any suggestions or questions, please feel free to contact us.
