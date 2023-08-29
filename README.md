@@ -1,5 +1,5 @@
-# Awesome Literature on [Imbalanced Learning on Graphs](xxx.xxx.xxx) (ILoGs)
-This repository showcases a curated collection of research literature on imbalanced learning on graphs. We have categorized this literature according to the taxonomies of **Problems** and **Techniques** detailed in our survey paper, titled [A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](xxx.xxx.xxx). In this repository, we primarily arrange the literature based on our **Problem** taxonomy for clarity. For a deeper understanding of this rapidly evolving and challenging field, we encourage readers to consult our survey.
+# Awesome Literature on [Imbalanced Learning on Graphs](https://arxiv.org/abs/2308.13821) (ILoGs)
+This repository showcases a curated collection of research literature on imbalanced learning on graphs. We have categorized this literature according to the taxonomies of **Problems** and **Techniques** detailed in our survey paper, titled [A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](https://arxiv.org/abs/2308.13821). In this repository, we primarily arrange the literature based on our **Problem** taxonomy for clarity. For a deeper understanding of this rapidly evolving and challenging field, we encourage readers to consult our survey.
 
 For our taxonomy of **Problems**, we classify the literature based on **class imbalance** and **structure imbalance**, both stemming from imbalanced input. We further distill this into more specific categories: node-, edge-, and graph-level imbalance, offering a comprehensive understanding of graph imbalance.
 
@@ -18,7 +18,7 @@ For a more comprehensive overview of imbalanced learning on various data, please
 
 # Outline
 
-The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xxx.xxx).
+The outline corresponds to the taxonomy of Problems in our [survey paper](https://arxiv.org/abs/2308.13821).
 
 - [1. Class Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#1-class-imbalance)
   - [1.1 Node-Level Class Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#11-node-level-class-imbalance)
