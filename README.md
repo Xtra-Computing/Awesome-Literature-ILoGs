@@ -425,7 +425,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](xxx.xx
 
       @article{liu2023surveyilogs,
         title={A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions},
-        author={Zemin Liu and Yuan Li and Nan Chen and Qian Wang and Bryan Hooi and Bingsheng He},
+        author={Liu, Zemin and Li, Yuan and Chen, Nan and Wang, Qian and Hooi, Bryan and He, Bingsheng},
         journal={arXiv preprint arXiv:2308.13821},
         year={2023}
       }
