@@ -8,7 +8,10 @@ For a more comprehensive overview of imbalanced learning on various data, please
 
 # Citation
 
-We provide the BibTeX formatted citation for our survey paper as follows.
+[A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](https://arxiv.org/abs/2308.13821)   
+Zemin Liu, Yuan Li, Nan Chen, Qian Wang, Bryan Hooi, Bingsheng He.
+
+We provide the BibTeX formatted citation for our survey paper as follows. If you find our work helpful, we greatly appreciate your citation of our paper.
 
       @article{liu2023surveyilogs,
         title={A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions},
