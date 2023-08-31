@@ -34,7 +34,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
   - [1.2 Edge-Level Class Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#12-edge-level-class-imbalance)
     - [1.2.1 Few-Shot Link Prediction](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#121-few-shot-link-prediction)
     - [1.2.2 Edge-Level Anomaly Detection](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#122-edge-level-anomaly-detection)
-    - [1.2.3 Imbalanced Link Classification]()
+    - [1.2.3 Imbalanced Link Classification](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#123-imbalanced-link-classification)
   - [1.3 Graph-Level Class Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#13-graph-level-class-imbalance)
     - [1.3.1 Imbalanced Graph Classification](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#131-imbalanced-graph-classification)
     - [1.3.2 Graph-Level Anomaly Detection](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#132-graph-level-anomaly-detection)
