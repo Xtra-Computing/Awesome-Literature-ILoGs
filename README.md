@@ -6,7 +6,7 @@ For our taxonomy of **Problems**, we classify the literature based on **class im
 For a more comprehensive overview of imbalanced learning on various data, please refer to Github Repository [Awesome-Imbalanced-Learning](https://github.com/yanliang3612/awesome-imbalanced-learning-on-geometric-and-graphs).
 
 
-# Citation
+# Our Survey Paper
 
 [A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions](https://arxiv.org/abs/2308.13821)   
 Zemin Liu, Yuan Li, Nan Chen, Qian Wang, Bryan Hooi, Bingsheng He.
