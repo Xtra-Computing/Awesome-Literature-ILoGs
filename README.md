@@ -34,6 +34,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
   - [1.2 Edge-Level Class Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#12-edge-level-class-imbalance)
     - [1.2.1 Few-Shot Link Prediction](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#121-few-shot-link-prediction)
     - [1.2.2 Edge-Level Anomaly Detection](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#122-edge-level-anomaly-detection)
+    - [1.2.3 Imbalanced Link Classification]()
   - [1.3 Graph-Level Class Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#13-graph-level-class-imbalance)
     - [1.3.1 Imbalanced Graph Classification](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#131-imbalanced-graph-classification)
     - [1.3.2 Graph-Level Anomaly Detection](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#132-graph-level-anomaly-detection)
@@ -238,6 +239,12 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 | F-FADE  | F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams  | WSDM 2021  | [PDF](https://arxiv.org/pdf/2011.04723.pdf)  | [PyTorch](https://github.com/snap-stanford/F-FADE)  |
 | LIFE  | Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach  | KDD 2021  | [PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467065)  | [N/A]  |
 | GLAD  | Deep Graph Learning for Anomalous Citation Detection  | TNNLS 2022 | [PDF](https://arxiv.org/abs/2202.11360)  | [N/A] |
+
+#### 1.2.3 Imbalanced Link Classification
+
+| Name  | Title | Venue | Paper | Code |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| RIWS  | A Linkage-based Doubly Imbalanced Graph Learning Framework for Face Clustering | SDM 2023 | [PDF](https://arxiv.org/abs/2107.02477)  | [PyTorch](https://github.com/espectre/GCNs_on_imbalanced_datasets) |
 
 ### 1.3 Graph-Level Class Imbalance
 
