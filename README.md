@@ -312,6 +312,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 | ReNode  | Topology-Imbalance Learning for Semi-Supervised Node Classification  | NeurIPS 2021  | [PDF](https://arxiv.org/abs/2110.04099)  | [PyTorch](https://github.com/victorchen96/ReNode)  |
 | PASTEL  | Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing  | CIKM 2022  | [PDF](https://arxiv.org/abs/2208.08302)  | [PyTorch](https://github.com/RingBDStack/PASTEL)  |
 | HyperIMBA  | Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification  | WWW 2023  | [PDF](https://arxiv.org/abs/2304.05059)  | [PyTorch](https://github.com/RingBDStack/HyperIMBA)  |
+| DIGL | A Linkage-based Doubly Imbalanced Graph Learning Framework for Face Clustering  | SDM 2023  | [PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch74)  | [PyTorch](https://github.com/espectre/GCNs_on_imbalanced_datasets)  |
 
 #### 2.1.3 Long-Tail Entity Embedding on KGs
 
