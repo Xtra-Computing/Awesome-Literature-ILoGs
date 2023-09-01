@@ -3,7 +3,7 @@ This repository showcases a curated collection of research literature on imbalan
 
 For our taxonomy of **Problems**, we classify the literature based on **class imbalance** and **structure imbalance**, both stemming from imbalanced input. We further distill this into more specific categories: node-, edge-, and graph-level imbalance, offering a comprehensive understanding of graph imbalance.
 
-For a more comprehensive overview of imbalanced learning on various data, please refer to Github Repository [Awesome-Imbalanced-Learning](https://github.com/yanliang3612/awesome-imbalanced-learning-on-geometric-and-graphs).
+For a more comprehensive overview of imbalanced learning on various data, please refer to Github Repository [Awesome-Imbalanced-Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning).
 
 
 # Our Survey Paper
